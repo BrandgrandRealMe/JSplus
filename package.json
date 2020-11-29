@@ -1,0 +1,26 @@
+{
+  "name": "JSplus",
+  "version": "1.0.0",
+  "description": "An NPM package that Add Fuctions to JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandgrandRealMe/JSplus.git"
+  },
+  "keywords": [
+    "Facts",
+    "Science",
+    "Knowledge",
+    "Daily",
+    "Captions"
+  ],
+  "author": "BrandgrandReal <https://github.com/BrandgrandRealMe>",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/morelmiles/facts-generator/issues"
+  }
+  "homepage": "https://github.com/BrandgrandRealMe/JSplus#readme",
+}
